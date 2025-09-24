@@ -1,4 +1,4 @@
-### This is a REMOTE change :OO
+### This is a REMOTE change :OOO
 # recipe
 line 2 changed remotely again
 ## My Favourite Crepe Recipe
@@ -7,4 +7,4 @@ This recipe gives ingredients and instuctions to make crepes at home. It does no
 Recipe source: https://sallysbakingaddiction.com/make-crepes/
 
 last line changed locally again
-### This is a REMOTE change :O)
+### This is a REMOTE change :OOO
