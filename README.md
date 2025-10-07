@@ -6,6 +6,8 @@
 
 # recipe
 
+![A Crepe Photo](recipe.jpg "Photo of finished crepes")
+
 line 2 changed remotely again
 
 ## My Favourite Crepe Recipe
